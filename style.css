@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('img/008df275d1fb39f519c04266371757ad.jpg');
+}
+
+.form-registro {
+  width: 400px;
+  background: #263c24;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+  box-shadow: 7px 13px 37px #000;
+}
+
+.form-registro h4 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.controles {
+  width: 100%;
+  background: #2f3c24;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #54c51f;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+}
+
+.form-registro p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.form-registro a {
+  color: white;
+  text-decoration: none;
+}
+
+.form-registro a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.form-registro .bottons {
+  width: 100%;
+  background: #54c51f;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
